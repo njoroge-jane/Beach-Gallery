@@ -1,51 +1,51 @@
 var gallery =[
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 1.jpg',
+    owner: 'Bella G',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 2.jpg',
+    owner: 'Ali Taran',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 3.jpg',
+    owner: 'Lucy Johns',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 4.jpg',
+    owner: 'Carly Brat',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 5.png',
+    owner: 'Sue',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 6.jpg',
+    owner: 'Anonymous',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 7.jpg',
+    owner: 'Prexta',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 8.jpg',
+    owner: 'John Davis',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 9.jpg',
+    owner: 'Miss Art',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 10.jpg',
+    owner: 'My style',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 11.jpg',
+    owner: 'Anonymous',
   },
   {
-    image: 'sunset.jpg',
-    owner: 'JohnDoe',
+    image: 'image 12.jpg',
+    owner: 'Darly Evans',
   }
 ]
 
