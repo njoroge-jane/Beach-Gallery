@@ -59,8 +59,8 @@ document.getElementsByClassName('row')[0].innerHTML += item;
 
 gallery.forEach(function(anImage){
   var item =  
-  `<div class='col-md-1'>
-  <a class = "hover-zoom" href="${anImage.image}"><img class="img-fluid" src="${anImage.image}" alt="" /></a> 
+  `<div class='col-md-1 hover-zoom"'>
+  <a href="${anImage.image}"><img class="img-fluid" src="${anImage.image}" alt="" /></a> 
   </div>`
   
 document.getElementsByClassName('preview')[0].innerHTML += item;
